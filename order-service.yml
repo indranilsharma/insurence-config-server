@@ -5,7 +5,7 @@ eureka.client.service-url.defaultZone=http://localhost:8761/eureka
 eureka.instance.hostname=localhost
 
 # Microservice endpoints
-payment-service.uri=http://payment-service/payment/doPayment
+uri=http://payment-service/payment/doPayment
 #order-service.uri=http://order-service/order/bookorder
 
 
